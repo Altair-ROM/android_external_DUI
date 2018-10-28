@@ -1,27 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--  Copyright (C) 2017 The Dirty Unicorns Project
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="30.0dp"
-        android:height="30.0dp"
-        android:viewportWidth="96.0"
-        android:viewportHeight="96.0">
+        android:width="30dp"
+        android:height="30dp"
+        android:viewportWidth="96"
+        android:viewportHeight="96">
     <path
         android:fillColor="@color/icon_color_dark"
-        android:pathData="M72,42h-4h-4H48c-2.2,0-4,1.8-4,4v4c0,2.2,1.8,4,4,4h14.8c-2.4,5.9-8.1,10-14.8,10c-8.8,0-16-7.2-16-16
-s7.2-16,16-16c2.9,0,5.6,0.8,7.9,2.1l0,0c0.4,0.3,0.8,0.5,1.3,0.5c0.6,0,1.1-0.2,1.4-0.6l0,0l5.9-5.6c0,0,0,0,0.1-0.1l0,0l0,0
-c0.3-0.4,0.5-0.8,0.5-1.4c0-0.6-0.3-1.1-0.7-1.5l0,0c0,0-0.1,0-0.1-0.1c-0.1-0.1-0.2-0.1-0.2-0.2C59.7,21.9,54.1,20,48,20
-c-15.5,0-28,12.5-28,28c0,15.5,12.5,28,28,28s28-12.5,28-28v-2C76,43.8,74.2,42,72,42z" />
+        android:pathData="M51.9059,44.8461L51.9059,52.8087L70.8362,52.8087C69.8336,58.5167 67.3058,63.1478 63.2476,66.7047C59.1921,70.2589 54.3594,72.0387 48.7522,72.0387C42.2405,72.0387 36.6067,69.6595 31.8509,64.901C27.0925,60.1453 24.7133,54.5089 24.7133,47.9998C24.7133,41.4908 27.0925,35.857 31.8509,31.0986C36.6067,26.3402 42.2405,23.9636 48.7522,23.9636C55.2612,23.9636 60.8207,26.4171 65.4279,31.3241L71.1359,25.616C64.9266,19.2051 57.4654,16.001 48.7522,16.001C39.9382,16.001 32.4,19.1309 26.1403,25.3906C19.8806,31.6503 16.7507,39.1858 16.7507,47.9998C16.7507,56.8138 19.8806,64.3493 26.1403,70.609C32.4,76.8714 39.9382,80.0013 48.7522,80.0013C57.4654,80.0013 64.725,76.8953 70.5365,70.686C76.3453,64.4767 79.2497,56.9146 79.2497,47.9998L79.2497,44.8461L51.9059,44.8461Z"/>
 </vector>

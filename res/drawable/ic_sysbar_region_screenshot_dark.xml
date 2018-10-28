@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--  Copyright (C) 2017 The Dirty Unicorns Project
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="30.0dp"
-        android:height="30.0dp"
-        android:viewportWidth="96.0"
-        android:viewportHeight="96.0">
+        android:width="30dp"
+        android:height="30dp"
+        android:viewportWidth="96"
+        android:viewportHeight="96">
     <path
         android:fillColor="@color/icon_color_dark"
-        android:pathData="M82,36H64c-2.2,0-4-1.8-4-4V14c0-2.2,1.8-4,4-4h18c2.2,0,4,1.8,4,4v18C86,34.2,84.2,36,82,36z" />
-    <path
-        android:fillColor="@color/icon_color_dark"
-        android:pathData="M72,42h-2h-2h-8c-3.3,0-6-2.7-6-6v-8v-2v-2c0-2.2-1.8-4-4-4h-2H27c-3.8,0-7,3.2-7,7v42c0,3.8,3.2,7,7,7h42
-c3.8,0,7-3.2,7-7V48v-2C76,43.8,74.2,42,72,42z
-M65,66h-9h-6h-2H31c-1.7,0-3-1.3-3-3c0-0.6,0.2-1.1,0.5-1.6l0,0l0,0
-c0-0.1,0.1-0.1,0.1-0.2l9.9-13.8C39,46.6,39.9,46,41,46c1.1,0,2.1,0.6,2.6,1.5L52,60l4.4-6.6h0c0.5-0.9,1.5-1.5,2.6-1.5
-s2.1,0.6,2.6,1.5h0l5.7,7.6c0.1,0.1,0.1,0.2,0.2,0.3l0,0l0,0c0.3,0.5,0.5,1,0.5,1.6C68,64.7,66.7,66,65,66z" />
+        android:pathData="M63.7861,80.0001L22.166,80.0001C20.4894,80.0001 19.0711,79.4172 17.9073,78.2533C16.7434,77.0895 16.1605,75.6712 16.1605,73.9946L16.1605,32.3745C16.1605,30.6978 16.7434,29.2796 17.9073,28.1157C19.0691,26.9519 20.4894,26.369 22.166,26.369L47.0615,26.369L47.0615,40.6056C47.0615,44.7501 50.4289,48.1175 54.5735,48.1175L69.5973,48.1175C69.6634,48.1175 69.7275,48.1155 69.7916,48.1135L69.7916,73.9946C69.7916,75.6712 69.2087,77.0895 68.0448,78.2533C66.881,79.4172 65.4627,80.0001 63.7861,80.0001ZM63.7861,71.0619L50.3788,53.1855L40.0424,66.5928L32.5004,57.6546L22.166,71.0619L63.7861,71.0619ZM72.3277,16.0005C76.4742,16.0005 79.8396,19.3658 79.8396,23.5124L79.8396,38.5363C79.8396,42.6809 76.4742,46.0482 72.3277,46.0482L57.3038,46.0482C53.1572,46.0482 49.7919,42.6809 49.7919,38.5363L49.7919,23.5124C49.7919,19.3658 53.1572,16.0005 57.3038,16.0005L72.3277,16.0005Z"/>
 </vector>
